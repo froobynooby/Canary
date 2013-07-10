@@ -1,0 +1,4 @@
+Canary
+======
+
+Canary Bukkit plugin
